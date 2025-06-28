@@ -14,12 +14,21 @@
     "@remix-run/node": "^2.16.8",
     "@remix-run/react": "^2.16.8",
     "@remix-run/serve": "^2.16.8",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "cobe": "^0.6.4",
     "isbot": "^4.1.0",
+    "lucide-react": "^0.525.0",
+    "motion": "^12.19.2",
+    "prettier": "^3.6.2",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "tailwind-merge": "^3.3.1",
+    "tailwindcss-animate": "^1.0.7"
   },
   "devDependencies": {
     "@remix-run/dev": "^2.16.8",
+    "@stylistic/eslint-plugin": "^5.0.0",
     "@types/react": "^18.2.20",
     "@types/react-dom": "^18.2.7",
     "@typescript-eslint/eslint-plugin": "^6.7.4",
